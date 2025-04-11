@@ -1,6 +1,6 @@
 import React from 'react'
 import { html5, es6, css3,  } from "../assets/Images"
-import LandingCard from "../components/landingCard"
+import LandingCard from "../components/LandingCard"
 
 const FrontendCard = () => {
   return (
