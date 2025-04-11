@@ -6,7 +6,7 @@ import HeroMain from "./heroSection/HeroMain";
 import NavBarMain from "./navbar/NavBarMain";
 import { Routes, Route } from "react-router-dom";
 import DataScienceMain from "./Pages/DataScienceMain";
-import Footer from "./sections/footer";
+import Footer from "./sections/Footer";
 import MasterPlatform from "./sections/MasterPlatform";
 import FrontendCard from "./sections/FrontendCard";
 
